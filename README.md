@@ -28,7 +28,8 @@ Evaluate the value and importance of Python for developers
 | Saudi Arabia    | 94212    | 99990    |
 
 ### Insight №3
-7. What levels of education do the 5 respondents with the highest compensation have? 
+7. What levels of education do the 5 respondents with the highest compensation have?
+
 1)Bachelor’s degree (B.A., B.S., B.Eng., etc.)
 2) Professional degree (JD, MD, Ph.D, Ed.D, etc.)
 3) Professional degree (JD, MD, Ph.D, Ed.D, etc.)

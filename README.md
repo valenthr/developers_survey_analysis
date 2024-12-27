@@ -1,9 +1,9 @@
 # Python developers survey analysis
-Answering selected questions about age, location, industry, degree and salaries of python developers.
+Answering selected questions about age, location, industry, degree and salaries of developers.
 ## Data
 All answers is based on [Stack Overflow's annual survey](https://survey.stackoverflow.co/]), in which take part more then 60 000 developers
 ## Purpose
-Evaluate the value and importance of Python for developers
+
 ## Questions and answers
 1. How many participants in the survey? 65437
 2. How many respondents answered all questions? 6306

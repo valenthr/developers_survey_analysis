@@ -9,7 +9,9 @@ Evaluate the value and importance of Python for developers
 2. How many respondents answered all questions? 6306
 3. What is the average experience? 11.46
 4. What is the median experience? 9
-5. How many respondents work remotely? 38%
+### Insight №1 
+5. How many respondents work remotely? 38%  
+### Insight №2
 6. Which is top 10 countries (nomadic = without permanent location) by salary of developers, who program in Python?
 
 | Country         | Mean     | Median   |
@@ -25,13 +27,15 @@ Evaluate the value and importance of Python for developers
 | Isle of Man     | 111087   | 104340   |
 | Saudi Arabia    | 94212    | 99990    |
 
+### Insight №3
 7. What levels of education do the 5 respondents with the highest compensation have? 
-
 1)Bachelor’s degree (B.A., B.S., B.Eng., etc.)
 2) Professional degree (JD, MD, Ph.D, Ed.D, etc.)
 3) Professional degree (JD, MD, Ph.D, Ed.D, etc.)
 4) Bachelor’s degree (B.A., B.S., B.Eng., etc.)
 5) Professional degree (JD, MD, Ph.D, Ed.D, etc.)
+
+### Insight №4
 8. What percentage of respondents program in Python in each age category?
 
 | Age                | Percentage, % |
@@ -45,6 +49,7 @@ Evaluate the value and importance of Python for developers
 | Prefer not to say  | 45.341615     |
 | Under 18 years old | 64.875389     |
 
+### Insight №5
 9. Among respondents who are in the 75th percentile for compensation and work remotely, which industries are most common?
 
 | Industry                                 | Number of Responders |

@@ -1,5 +1,9 @@
 # Python developers survey analysis
-Answering selected questions about age, location, industry, degree and salaries of python developers based on [Stack Overflow's annual survey](https://survey.stackoverflow.co/])
+Answering selected questions about age, location, industry, degree and salaries of python developers.
+## Data
+All answers is based on [Stack Overflow's annual survey](https://survey.stackoverflow.co/]), in which take part more then 60 000 developers
+## Purpose
+Evaluate the value and importance of Python for developers
 ## Questions and answers
 1. How many participants in the survey? 65437
 2. How many respondents answered all questions? 6306
@@ -22,6 +26,7 @@ Answering selected questions about age, location, industry, degree and salaries 
 | Saudi Arabia    | 94212    | 99990    |
 
 7. What levels of education do the 5 respondents with the highest compensation have? 
+
 1)Bachelor’s degree (B.A., B.S., B.Eng., etc.)
 2) Professional degree (JD, MD, Ph.D, Ed.D, etc.)
 3) Professional degree (JD, MD, Ph.D, Ed.D, etc.)

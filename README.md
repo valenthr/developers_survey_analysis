@@ -7,18 +7,20 @@ Answering selected questions about age, location, industry, degree and salaries 
 4. What is the median experience? 9
 5. How many respondents work remotely? 38%
 6. Which is top 10 countries by salary of developers, who program in Python?
-|Country      | mean    | median |
-|-------------|---------|--------|
-| Gabon       | 2000000 | 2000000|
-|Andorra      |  193331 |  193331|
-|USA          |  162948 | 140000 |
-|Cambodia     | 120000  | 120000 |
-| Luxembourg  | 115928  | 118146 |
-|  Israel     | 126673  | 116572 |
-| Nomadic     | 112776  | 112776 |
-| Switzerland | 112311  | 111417 |
-|Isle of Man  | 111087  | 104340 |
-|Saudi Arabia | 94212   |  99990 |
+
+| Country         | Mean     | Median   |
+|-----------------|----------|----------|
+| Gabon           | 2000000  | 2000000  |
+| Andorra         | 193331   | 193331   |
+| USA             | 162948   | 140000   |
+| Cambodia        | 120000   | 120000   |
+| Luxembourg      | 115928   | 118146   |
+| Israel          | 126673   | 116572   |
+| Nomadic         | 112776   | 112776   |
+| Switzerland     | 112311   | 111417   |
+| Isle of Man     | 111087   | 104340   |
+| Saudi Arabia    | 94212    | 99990    |
+
 7. What levels of education do the 5 respondents with the highest compensation have? 
 1)Bachelor’s degree (B.A., B.S., B.Eng., etc.)
 2) Professional degree (JD, MD, Ph.D, Ed.D, etc.)

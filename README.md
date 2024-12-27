@@ -3,6 +3,9 @@ Answering selected questions about age, location, industry, degree and salaries 
 ## Data
 All answers is based on [Stack Overflow's annual survey](https://survey.stackoverflow.co/]), in which take part more then 60 000 developers
 ## Purpose
+Analysis of developer survey data:
+* Examining trends that appear in the data (distribution by age, industry, technology).
+* Analysis of the career path and preferences of developers.
 
 ## Questions and answers
 1. How many participants in the survey? 65437
